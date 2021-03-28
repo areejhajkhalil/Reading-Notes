@@ -5,21 +5,20 @@ My Bio: Im Areej Haj khalil, I have a BA translation from AL-Zaytoonah Universit
 
 table of content: 
 
-| Assigment      | Link        |
-| -----------    | ----------- |  
-| Class1.md      |             |
-| Class2.md      |             |
-| Class3.md      |             |
-| class4.md      |             |
-| Class5.md      |             |
-| Class5.md      |             |
-| Class6.md      |             |
-| Class7.md      |             |
-| Class8.md      |             |
-| Class9.md      |             |
-| Class10.md     |             |
-| Class11.md     |             |
-| Class12.md     |             |
-| Class13.md     |             |
-| Class14.md     |             |
-| Class15.md     |             |
+| Assigment      | Link                                                                               |
+| -----------    | -----------                                                                        |  
+| Class1.md      |[Introductory HTML and JavaScript](https://areejhajkhalil.github.io/Reading-Notes/) |
+| Class2.md      |[HTML & js book](https://areejhajkhalil.github.io/Reading-Notes/)                   |
+| Class3.md      |                                                                                    |
+| class4.md      |                                                                                    |
+| Class5.md      |                                                                                    |
+| Class6.md      |                                                                                    |
+| Class7.md      |                                                                                    |
+| Class8.md      |                                                                                    |
+| Class9.md      |                                                                                    |
+| Class10.md     |                                                                                    |
+| Class11.md     |                                                                                    |
+| Class12.md     |                                                                                    |
+| Class13.md     |                                                                                    |
+| Class14.md     |                                                                                    |
+| Class15.md     |                                                                                    |
