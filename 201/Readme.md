@@ -9,7 +9,7 @@ table of content:
 | -----------    | -----------                                                                                                |  
 | Class1.md      |[Introductory HTML and JavaScript](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class1.md) |
 | Class2.md      |[HTML & js book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class2.md)                   |
-| Class3.md      |                                                                                                            |
+| Class3.md      |[HTML & js book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class3.md)                   |
 | class4.md      |                                                                                                            |
 | Class5.md      |                                                                                                            |
 | Class6.md      |                                                                                                            |
