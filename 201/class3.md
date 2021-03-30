@@ -63,3 +63,48 @@ In order to set the width and height of an element correctly in all browsers, yo
 
 
 # JS book:
+
+**Array:**
+-*An array is a special variable, which can hold more than one value at a time.*
+
+*-If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this:*
+
+var car1 = "Saab";
+var car2 = "Volvo";
+var car3 = "BMW";
+
+-*An array can hold many values under a single name, and you can access the values by referring to an index number.*
+
+-*Arrays are a special type of objects. The typeof operator in JavaScript returns "object" for arrays.*
+
+ But, JavaScript arrays are best described as arrays.*
+
+*-Arrays use numbers to access its "elements". In this example, person[0] returns John:*
+
+*-Array:
+var person = ["John", "Doe", 46];
+
+
+
+
+**if else statements:**
+
+-*Conditional statements allow your code to make decisions about what to do next.*
+
+-*Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands.*
+
+-*Logical operators allow you to combine more than one set of comparison operators.*
+
+-*if ... else statements allow you to run one set of code if a condition is true, and another if it is false.*
+
+-*switch statements allow you to compare a value against possible outcomes (and also provides a default
+option if none match).*
+
+-*Data types can be coerced from one type to another.*
+
+-*All values evaluate to either truthy or falsy.*
+
+-*There are three types of loop: for, while, and do ... while. Each repeats a set of statements.*
+
+
+
