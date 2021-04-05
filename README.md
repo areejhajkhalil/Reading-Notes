@@ -26,7 +26,7 @@ table of content:
 | class4.md      |[HTML & js book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class4.md)                        |
 | Class5.md      |[HTML book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class5.md)                             |
 | Class6.md      |[js book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class6.md)                               |
-| Class7.md      |                                                                                                                 |
+| Class7.md      |[HTML & js book](https://github.com/areejhajkhalil/Reading-Notes/blob/main/201/class7.md)                        |
 | Class8.md      |                                                                                                                 |
 | Class9.md      |                                                                                                                 |
 | Class10.md     |                                                                                                                 |
@@ -35,7 +35,11 @@ table of content:
 | Class13.md     |                                                                                                                 |
 | Class14.md     |                                                                                                                 |
 | Class15.md     |                                                                                                                 |
-                                                                           
+                             
+
+                       
+                                                                                                             
+                                              
 
 
 
